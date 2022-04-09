@@ -4,6 +4,13 @@
 
 For this project, my aim was to build a fully functioning Google Books API search engine built with a RESTful API and it was to be a GraphQL API built with Apollo Server.
 
+## Table of contents:
+- [Links](#links)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Contribute](#contribute)
+
 ## Links:
 
 ### Demo:
